@@ -139,12 +139,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-_(Add screenshots once UI is polished)_
-
----
-
 ## 🔮 Future Improvements
 - Add **full Excel analysis tools** (stats, correlation, regression)
 - Support **export to PDF/Excel** for reports
@@ -152,6 +146,3 @@ _(Add screenshots once UI is polished)_
 - Advanced chart types (heatmaps, histograms)
 
 ---
-
-## 📝 License
-MIT License © 2025 Your Name  
